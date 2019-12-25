@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ujala</string>
+    <string name="salontext">Salon</string>
+    <string name="jobs">Jobs</string>
+    <string name="ujala">Ujjola</string>
+    <string name="blog">Blog</string>
 </resources>
