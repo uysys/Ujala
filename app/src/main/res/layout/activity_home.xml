@@ -137,6 +137,7 @@
             app:cardCornerRadius="18dp"
             android:clickable="true"
             app:cardElevation="13dp"
+            android:onClick="ujalaClick"
             android:foreground="?selectableItemBackground"
             app:layout_constraintEnd_toStartOf="@+id/view"
             app:layout_constraintTop_toBottomOf="@+id/cardView">

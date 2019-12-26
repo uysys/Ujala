@@ -2,6 +2,12 @@
     <string name="app_name">Ujala</string>
     <string name="salontext">Salon</string>
     <string name="jobs">Jobs</string>
-    <string name="ujala">Ujjola</string>
+    <string name="ujala">Ujjala</string>
     <string name="blog">Blog</string>
+    <string name="ujala_text">Ujjala</string>
+    <string name="recommanded">Recommaded</string>
+    <string name="item_special_title">Specialized Course on Bridal Makeup</string>
+    <string name="item_courses_title">Specialized Course on Bridal Makeup</string>
+    <string name="days">2 Days</string>
+    <string name="date">Nov 25 - Nov 27, 2020</string>
 </resources>
